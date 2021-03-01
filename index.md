@@ -9,6 +9,4 @@ I am a PhD student in Computer Science at the University of Verona (Università 
 
 Other topics that intrigue me are multimedia and video games, especially game design and game programming. On a more personal note I really enjoy sports, playing games, music and getting to know people. If you are interested in my research or you simply wish to chat with me, my contact information is located in the sidebar on the left.
 
-Hey there, welcome to my personal website. Have fun looking around!
-
 ![Researcher Portrait](assets/images/profile.jpg "Geri Skenderi")
