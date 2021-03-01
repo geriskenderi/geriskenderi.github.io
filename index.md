@@ -1,11 +1,10 @@
 ---
-title: "Home"
+title: "Geri Skenderi"
 summary: "About this page."
-date: 2016-04-13
+date: 2020-03-01
 layout: default
 ---
 
-A skeleton-site for a personal academic website, written in Jekyll for hosting with GitHub Pages.
 
 ## Features
 - Minimal, clean design

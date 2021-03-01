@@ -1,10 +1,24 @@
 ---
 title: "Teaching"
-summary: "About this page."
-date: 2016-04-02
+summary: "My teaching activities."
+date: 2021-03-01
 layout: default
 ---
 
-"Teaching" introductory paragraph.
+## 4S02792: Advanced Recognition Systems
+#### Role: TA
+#### Course type: Graduate
+#### Venue: University of Verona, Department of Computer Science
+#### Timespan: 01/10/2020 - 20/01/2021
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna. Aenean blandit, ligula ac faucibus posuere, felis est consequat est, id mollis ligula velit id erat. Vivamus in ullamcorper ex, nec faucibus diam. Aenean eros purus, elementum sed nunc vitae, faucibus semper nibh. In ac nisl vitae massa scelerisque sagittis a elementum lectus.
+## 4S009001: Machine Learning & Artificial Intelligence 
+#### Role: TA
+#### Course type: Graduate
+#### Venue: University of Verona, Department of Computer Science
+#### Timespan: 01/03/2021 - /06/2021
+
+## 4S008902: Fundamentals of Machine Learning
+#### Role: TA
+#### Course type: Graduate
+#### Venue: University of Verona, Department of Computer Science
+#### Timespan: 01/03/2021 - /06/2021

@@ -1,12 +1,12 @@
 ---
 title: "About"
-summary: "About this page."
-date: 2016-04-13
+summary: "About me."
+date: 2021-03-01
 layout: default
 ---
 
-"About" introductory paragraph.
+I am a PhD student in Computer Science at the University of Verona (Università degli Studi di Verona), working under the supervision of [Prof. Marco Cristani](https://scholar.google.com/citations?user=LbgTPRwAAAAJ&hl=en&oi=ao). My research interests cover the broad area of deep learning and machine learning, with a particular focus on time-series forecasting and classification. Before my PhD, I got my Masters degree in Computational Data Science with honors at the Free University of Bolzano. During my Master studies, I worked both as a Software Developer and Data Analyst, having the opportunity to engage with multiple different projects and companies. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna. Aenean blandit, ligula ac faucibus posuere, felis est consequat est, id mollis ligula velit id erat. Vivamus in ullamcorper ex, nec faucibus diam. Aenean eros purus, elementum sed nunc vitae, faucibus semper nibh. In ac nisl vitae massa scelerisque sagittis a elementum lectus.
+Other topics that intrigue me are multimedia and video games, especially game design and game programming. On a more personal note I really enjoy sports, playing games, music and getting to know people. If you are interested in my research or you simply wish to chat with me, my contact information is located in the sidebar on the left.
 
-![Researcher Portrait](assets/images/ole.jpg "Ole Vik")
+![Researcher Portrait](assets/images/profile.jpg "Geri Skenderi")
