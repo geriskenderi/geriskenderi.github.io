@@ -1,8 +1,6 @@
 name: Geri Skenderi
 description: Personal website
 menu:
- - page: About
-   url: /about
  - page: Papers
    url: /papers
  - page: Research Projects
