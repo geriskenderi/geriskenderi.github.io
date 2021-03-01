@@ -31,5 +31,5 @@ menu_external:
 mathjax: false
 markdown: kramdown
 encoding: utf-8
-baseurl: /about
+baseurl: /
 locale: en_GB
