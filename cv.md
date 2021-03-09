@@ -1,12 +1,9 @@
 ---
 title: CV
-summary: "Ole Vik's Resume"
-cv_title: Ole Vik
-cv_subtitle: Political Economist
-location: Bergen
-phone: 
-contact_name: OleVik.net/Contact
-contact_link: http://olevik.net/contact
+summary: "Geri Skenderi's Resume"
+cv_title: Geri Skenderi
+cv_subtitle: PhD in Computer Science: Deep Learning and forecasting
+location: Bolzano, Italy
 linkedin_name: LinkedIn/OleHHVik
 linkedin_link: https://no.linkedin.com/in/olehhvik
 experience:
