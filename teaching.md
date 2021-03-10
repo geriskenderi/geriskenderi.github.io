@@ -15,10 +15,10 @@ Timespan: 01/10/2020 - 20/01/2021
 Role: TA\
 Course type: Graduate\
 Venue: University of Verona, Department of Computer Science\
-Timespan: 01/03/2021 - current
+Timespan: 01/03/2021 - present
 
 ### 4S008902: Fundamentals of Machine Learning
 Role: TA\
 Course type: Graduate\
 Venue: University of Verona, Department of Computer Science\
-Timespan: 01/03/2021 - current
+Timespan: 01/03/2021 - present

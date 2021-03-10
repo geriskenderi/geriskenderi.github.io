@@ -3,7 +3,7 @@ description: Personal website
 menu:
  - page: Papers
    url: /papers
- - page: Research Projects
+ - page: Research
    url: /research
    #links:
    # - title: "Project One"
