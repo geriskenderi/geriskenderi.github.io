@@ -2,7 +2,7 @@
 title: CV
 summary: "Geri Skenderi's Resume"
 cv_title: Geri Skenderi
-cv_subtitle: PhD in Computer Science: Deep Learning and forecasting
+cv_subtitle: PhD in Computer Science (Forecasting with Deep Learning)
 location: Bolzano, Italy
 linkedin_name: LinkedIn/OleHHVik
 linkedin_link: https://no.linkedin.com/in/olehhvik
@@ -53,5 +53,3 @@ misc: Citizen of Norway, fluent in Norwegian and English speech, read and write 
 date: 2016-04-02
 layout: cv
 ---
-
-> 2015 graduate with a Master’s Degree in Comparative Politics from the University of Bergen. Currently a Research Assistant at the Norwegian School of Economics and Substitute Teacher through PVS.

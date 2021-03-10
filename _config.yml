@@ -19,6 +19,8 @@ menu:
  - page: Teaching
    url: /teaching
 menu_external:
+ - title: E-mail
+   url: "mailto:geri.skenderi@univr.it"
  - title: Twitter
    url: "https://twitter.com/geriskenderi"
  - title: LinkedIn
