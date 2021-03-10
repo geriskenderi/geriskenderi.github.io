@@ -14,7 +14,7 @@ menu:
    #   url: "#project-three"
    # - title: "Project Four"
    #   url: "#project-four"
- - page: Curriculum Vitae
+ - page: Resume
    url: /cv
  - page: Teaching
    url: /teaching
