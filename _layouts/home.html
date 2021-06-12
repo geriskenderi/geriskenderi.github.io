@@ -3,9 +3,9 @@
 	<head>
 		{% include head.html %}
 	</head>
-	<body class="cv">
+	<body>
 		<div class="pure-container" data-effect="pure-effect-push">
-			<input type="checkbox" id="pure-toggle-left" class="pure-toggle hidden-md-up hidden-print" data-toggle="left" />
+			<input type="checkbox" id="pure-toggle-left" class="pure-toggle hidden-md-up" data-toggle="left" />
 
 			<nav class="pure-drawer" data-position="left">
 				<div class="col-md-3 sidebar hidden-print">
@@ -23,9 +23,19 @@
 							</div>
 							<main class="content col-md-9" role="main">
 								{% include mobile_header.html %}
-								<article class="container-fluid">
-									<iframe style="margin: 10px 0 40px 0;" class="pdf-iframe" src="https://drive.google.com/file/d/1ztmLdzEkojfCl_2nq1lozHwbeOS5rYPw/preview" width="100%" height="770"></iframe>
+								<article>
+									<h1>{{ page.title }}</h1>
+                                    <div style="width: 50%; height: 50%; background-color: green; float:left;">
+                                        {{ content }}
+                                    </div>
+                                    <div style="width: 50%; height: 50%; background-color: blue; float:right;">
+                                        <img src="../assets/images/profile.jpg" alt="Me...">
+                                    </div>
+									
+									<small class="text-muted">Last updated on {{ page.date | date: "%B %d, %Y" }}</small>
+									{% include sharing.html %}
 								</article>
+								
 							</main>
 						</div>
 					</div>
@@ -49,7 +59,6 @@
 			$("table").wrap('<div class="table-responsive"></div>');
 		});
 		</script>
-
 		{% if site.mathjax %}
 		<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 		{% endif %}
