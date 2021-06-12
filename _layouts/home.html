@@ -25,16 +25,17 @@
 								{% include mobile_header.html %}
 								<article>
 									<h1>{{ page.title }}</h1>
-                                    <div style="width: 50%; height: 50%; background-color: green; float:left;">
+                                    <div style="width: 50%; height: 50%;  float:left;">
                                         {{ content }}
+                                        <small class="text-muted">Last updated on {{ page.date | date: "%B %d, %Y" }}</small>
+									    {% include sharing.html %}
                                     </div>
-                                    <div style="width: 50%; height: 50%; background-color: blue; float:right;">
-                                        <img src="../assets/images/profile.jpg" alt="Me...">
+                                    <div style="width: 50%; height: 50%; float:right;">
+                                        <img src="../assets/images/profile.jpg" alt="Me..." style="width: 90%; height: 100%;">
                                     </div>
 									
 								</article>
-								<small class="text-muted">Last updated on {{ page.date | date: "%B %d, %Y" }}</small>
-									{% include sharing.html %}
+								
 							</main>
 						</div>
 					</div>
