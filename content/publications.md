@@ -1,5 +1,5 @@
 +++
-title = "My Scientific Publications"
+title = "My publications"
 +++
 
 ### Conference papers

@@ -1,5 +1,5 @@
 +++
-title = "Talks"
+title = "Various talks and seminars"
 +++
 
 ## MovingFashion @ WACV22
