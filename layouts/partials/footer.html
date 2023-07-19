@@ -1,0 +1,21 @@
+<footer class="footer">
+  <div class="footer__inner">
+      <a href="https://scholar.google.com/citations?user=F_FT7TUAAAAJ&hl=en" target="_blank">[Scholar]</a>
+      <a href="https://github.com/geriskenderi" target="_blank">[Github]</a>
+      <a href="https://www.linkedin.com/in/geriskenderi/" target="_blank">[LinkedIn]</a>
+      <a href="https://twitter.com/geriskenderi" target="_blank">[Twitter]</a>
+      <a href="https://www.instagram.com/geriskenderi/" target="_blank">[Instagram]</a>
+      <a href="mailto:geri.skenderi@univr.it" target="_blank">[E-Mail]</a>
+  </div>
+  
+</footer>
+
+{{ $menu := resources.Get "js/menu.js" | js.Build }}
+{{ $prism := resources.Get "js/prism.js" | js.Build }}
+
+{{ $bundle := slice $menu $prism | resources.Concat "bundle.js" | resources.Minify }}
+
+<script type="text/javascript" src="{{ $bundle.RelPermalink }}"></script>
+
+<!-- Extended footer section-->
+{{ partial "extended_footer.html" . }}

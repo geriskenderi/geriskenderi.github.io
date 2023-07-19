@@ -1,0 +1,17 @@
++++
+framed = true
+cover = "hello.jpg"
++++
+
+# Oh, hi!
+
+![A picture of me](img/me.jpg)
+
+My name is Geri Skenderi and I am a PhD Student in Computer Science at the University of Verona, working under the supervision of [Prof. Marco Cristani](https://scholar.google.com/citations?user=LbgTPRwAAAAJ&hl=en&oi=ao). 
+
+My research interests cover the broad area of deep representation learning, in particular disentangled representation learning and graph representation learning. I am also an avid enjoyer and reader of mathematics. For more professional information, you can download or read my [resume](https://drive.google.com/file/d/16hZHP6L6hGaZ9dVDI1ftVmdo0In9Aa5o/view?usp=drive_link).
+
+On a personal note, I love listening to and making music, doing physical activity, playing video-games, and watching anime. 
+
+If you are interested in my research or you wish to discuss various matters, you can find all of my contact information below.
+

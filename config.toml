@@ -1,0 +1,38 @@
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = '0.90.0'
+
+baseurl = "https://geriskenderi.github.io/"
+languageCode = "en-us"
+theme = "hugo-theme-terminal"
+paginate = 5
+
+[params]
+  themeColor = "green"
+  showMenuItems = 5
+  fullWidthTheme = false
+  centerTheme = true
+  showLanguageSelector = false
+
+[languages]
+  [languages.en]
+    title = "Geri Skenderi"
+
+    [languages.en.params.logo]
+      logoText = "Anyone there?"
+      logoHomeLink = "/"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "publications"
+        name = "Publications"
+        url = "/publications"
+      [[languages.en.menu.main]]
+        identifier = "teaching"
+        name = "Teaching"
+        url = "/teaching"
+      [[languages.en.menu.main]]
+        identifier = "talks"
+        name = "Talks"
+        url = "/talks"
