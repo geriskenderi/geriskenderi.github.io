@@ -17,10 +17,10 @@ paginate = 5
 
 [languages]
   [languages.en]
-    title = "Geri Skenderi"
+    title = "Geri Skenderi - Personal Website"
 
     [languages.en.params.logo]
-      logoText = "Anyone there?"
+      logoText = "Geri Skenderi"
       logoHomeLink = "/"
 
     [languages.en.menu]
