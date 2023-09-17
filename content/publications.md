@@ -2,6 +2,9 @@
 title = "My publications"
 +++
 
+### Pre-prints
+- *Skenderi, G.*, Joppi, C., Denitto, M., & Cristani, M. (2021). Well googled is half done: Multimodal forecasting of new fashion product sales with image-based google trends. arXiv:2109.09824. (Under review in the Wiley Journal of Forecasting)
+
 ### Conference papers
 - Turetta, C., *Skenderi, G.*, Capogrosso, L., Demrozi, F., Kindt, P. H., Masrur, A., ... & Pravadelli, G. (2023, April). Towards Deep Learning-based Occupancy Detection Via WiFi Sensing in Unconstrained Environments. In 2023 Design, Automation & Test in Europe Conference & Exhibition (DATE) (pp. 1-6). IEEE.
 
@@ -23,5 +26,3 @@ title = "My publications"
 
 ### Journal papers
 - Giuliari, F., *Skenderi, G.*, Cristani, M., Del Bue, A., & Wang, Y. (2023). Leveraging commonsense for object localisation in partial scenes. IEEE Transactions on Pattern Analysis and Machine Intelligence.
-
-- *Skenderi, G.*, Joppi, C., Denitto, M., & Cristani, M. (2021). Well googled is half done: Multimodal forecasting of new fashion product sales with image-based google trends. arXiv preprint arXiv:2109.09824. (Submitted to Wiley Journal of Forecasting)
