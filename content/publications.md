@@ -2,7 +2,9 @@
 title = "My publications"
 +++
 
-### Pre-prints
+### Preprints and Submissions
+- *Skenderi, G.*, Capogrosso L., Toaiari A., Denitto M., Fummi. F, Melzi S., & Cristani, M (2023). Disentangled Latent Spaces Facilitate Data-Driven Auxiliary Learning. arXiv:2310.09278. (Under review in Elsevier Pattern Recognition
+Letters).
 - *Skenderi, G.*, Li, H., Tang, J., & Cristani, M. (2023). Graph-level Representation Learning with Joint-Embedding Predictive Architectures. arXiv preprint arXiv:2309.16014.
 - *Skenderi, G.*, Joppi, C., Denitto, M., & Cristani, M. (2021). Well googled is half done: Multimodal forecasting of new fashion product sales with image-based google trends. arXiv:2109.09824. (Under review in the Wiley Journal of Forecasting)
 
