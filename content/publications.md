@@ -7,7 +7,7 @@ title = "My publications"
 
 - *Skenderi, G.*, Li, H., Tang, J., & Cristani, M. (2023). Graph-level Representation Learning with Joint-Embedding Predictive Architectures. arXiv:2309.16014.
 
-- *Skenderi, G.*, Joppi, C., Denitto, M., & Cristani, M. (2021). Well googled is half done: Multimodal forecasting of new fashion product sales with image-based google trends. arXiv:2109.09824. (Under review in the Wiley Journal of Forecasting)
+- *Skenderi, G.*, Joppi, C., Denitto, M., & Cristani, M. (2021). Well googled is half done: Multimodal forecasting of new fashion product sales with image-based google trends. arXiv:2109.09824. (Under review in the Wiley Journal of Forecasting).
 
 ### Conference papers
 - Turetta, C., *Skenderi, G.*, Capogrosso, L., Demrozi, F., Kindt, P. H., Masrur, A., ... & Pravadelli, G. (2023, April). Towards Deep Learning-based Occupancy Detection Via WiFi Sensing in Unconstrained Environments. In 2023 Design, Automation & Test in Europe Conference & Exhibition (DATE) (pp. 1-6). IEEE.
