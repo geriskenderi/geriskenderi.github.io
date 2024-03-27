@@ -1,9 +1,9 @@
 +++
-title = "Various talks and seminars"
+title = "Talks and seminars"
 +++
 
-## A Journey into Variational Inference for Generative Modeling: From Variational Autoencoders to Denoising Diffusion Probabilistic Models @ UniVR 2023
-{{< youtube id="I9CnAEOiA" title="Seminar regarding the mathematical details of VAEs and DDPMs" >}}
+## From Variational Autoencoders to Denoising Diffusion Probabilistic Models @ UniVR 2023
+{{< youtube id="f-I9CnAEOiA" title="Seminar regarding the mathematical details of VAEs and DDPMs" >}}
 
 ## MovingFashion: a Benchmark for the Video-to-Shop Challenge @ WACV22
 {{< youtube id="YT3zGcIPciM" title="My presentation for our WACV paper" >}}

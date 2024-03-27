@@ -1,5 +1,5 @@
 +++
-title = "My teaching activity"
+title = "Teaching activity"
 +++
 
 **4S009001: Machine Learning & Artificial Intelligence**\

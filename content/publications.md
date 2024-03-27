@@ -1,13 +1,11 @@
 +++
-title = "My publications"
+title = "Publications"
 +++
 
 ### Preprints and Submissions
 - *Skenderi, G.*, Capogrosso, L., Toaiari, A., Denitto, M., Fummi, F., Melzi, S., & Cristani, M. (2023). Disentangled Latent Spaces Facilitate Data-Driven Auxiliary Learning. arXiv:2310.09278. (Under review in Elsevier Pattern Recognition Letters).
 
 - *Skenderi, G.*, Li, H., Tang, J., & Cristani, M. (2023). Graph-level Representation Learning with Joint-Embedding Predictive Architectures. arXiv:2309.16014.
-
-- *Skenderi, G.*, Joppi, C., Denitto, M., & Cristani, M. (2021). Well googled is half done: Multimodal forecasting of new fashion product sales with image-based google trends. arXiv:2109.09824. (Under review in the Wiley Journal of Forecasting).
 
 ### Conference papers
 - Turetta, C., *Skenderi, G.*, Capogrosso, L., Demrozi, F., Kindt, P. H., Masrur, A., ... & Pravadelli, G. (2023, April). Towards Deep Learning-based Occupancy Detection Via WiFi Sensing in Unconstrained Environments. In 2023 Design, Automation & Test in Europe Conference & Exhibition (DATE) (pp. 1-6). IEEE.
@@ -29,4 +27,6 @@ title = "My publications"
 - *Skenderi, G.*, Bozzini, A., Capogrosso, L., Agrillo, E. C., Perbellini, G., Fummi, F., & Cristani, M. (2021, September). Dohmo: Embedded computer vision in co-housing scenarios. In 2021 Forum on specification & Design Languages (FDL) (pp. 01-08). IEEE.
 
 ### Journal papers
+-  *Skenderi, G.*, Joppi, C., Denitto, M., & Cristani, M. (2024). Well googled is half done: Multimodal forecasting of new fashion product sales with image-based google trends. Journal of Forecasting, 1–16. https://doi.org/10.1002/for.3104
+
 - Giuliari, F., *Skenderi, G.*, Cristani, M., Del Bue, A., & Wang, Y. (2023). Leveraging commonsense for object localisation in partial scenes. IEEE Transactions on Pattern Analysis and Machine Intelligence.
