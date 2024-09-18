@@ -1,5 +1,5 @@
 +++
-title = "Talks and seminars"
+title = "Recorder talks and seminars"
 +++
 
 ## From Variational Autoencoders to Denoising Diffusion Probabilistic Models @ UniVR 2023
