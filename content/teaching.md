@@ -2,6 +2,12 @@
 title = "Teaching activity"
 +++
 
+**41001: Modern Applied Machine Learning**\
+Role: Guest lecturer on "Principles of Equivariant and Invariant Learning on Graphs"\
+Course level: PhD course\
+Venue: Bocconi University, Department of Computing Sciences\ 
+Timespan: 29/04/2024
+
 **4S009001: Machine Learning & Artificial Intelligence**\
 Role: TA\
 Course level: Graduate\
