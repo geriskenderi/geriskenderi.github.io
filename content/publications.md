@@ -3,11 +3,18 @@ title = "Publications"
 +++
 
 ### Preprints and Submissions
-- *Skenderi, G.*, Capogrosso, L., Toaiari, A., Denitto, M., Fummi, F., Melzi, S., & Cristani, M. (2023). Disentangled Latent Spaces Facilitate Data-Driven Auxiliary Learning. arXiv:2310.09278. (Under review in Elsevier Pattern Recognition Letters).
+- *Skenderi, G.* (2025). On the Hardness of Learning GNN-based SAT Solvers: The Role of Graph Ricci Curvature (Arxiv:2508.21513)
 
-- *Skenderi, G.*, Li, H., Tang, J., & Cristani, M. (2023). Graph-level Representation Learning with Joint-Embedding Predictive Architectures. arXiv:2309.16014.
+### Journal papers
+- *Skenderi, G.*, Li, H., Tang, J., & Cristani, M. (2025). Graph-level Representation Learning with Joint-Embedding Predictive Architectures. Transactions on Machine Learning Research (TMLR)
+
+-  *Skenderi, G.*, Joppi, C., Denitto, M., & Cristani, M. (2024). Well googled is half done: Multimodal forecasting of new fashion product sales with image-based google trends. Journal of Forecasting, 1–16.
+
+- Giuliari, F., *Skenderi, G.*, Cristani, M., Del Bue, A., & Wang, Y. (2023). Leveraging commonsense for object localisation in partial scenes. IEEE Transactions on Pattern Analysis and Machine Intelligence.
 
 ### Conference papers
+- *Skenderi, G.*, Capogrosso L.,  Toaiari A., Denitto M., Fummi. F, \& Melzi S. (2025) Disentangled Latent Spaces Facilitate Data-Driven Auxiliary Learning. 23rd International Conference on Image Analysis and Processing.
+
 - Turetta, C., *Skenderi, G.*, Capogrosso, L., Demrozi, F., Kindt, P. H., Masrur, A., ... & Pravadelli, G. (2023, April). Towards Deep Learning-based Occupancy Detection Via WiFi Sensing in Unconstrained Environments. In 2023 Design, Automation & Test in Europe Conference & Exhibition (DATE) (pp. 1-6). IEEE.
 
 - *Skenderi, G.*, Joppi, C., Denitto, M., \& Cristani, M. (2022). On the use of learning-based forecasting methods for ameliorating fashion business processes: A position paper. 2nd International Workshop on Industrial Machine Learning @ ICPR22.
@@ -26,7 +33,3 @@ title = "Publications"
 
 - *Skenderi, G.*, Bozzini, A., Capogrosso, L., Agrillo, E. C., Perbellini, G., Fummi, F., & Cristani, M. (2021, September). Dohmo: Embedded computer vision in co-housing scenarios. In 2021 Forum on specification & Design Languages (FDL) (pp. 01-08). IEEE.
 
-### Journal papers
--  *Skenderi, G.*, Joppi, C., Denitto, M., & Cristani, M. (2024). Well googled is half done: Multimodal forecasting of new fashion product sales with image-based google trends. Journal of Forecasting, 1–16. https://doi.org/10.1002/for.3104
-
-- Giuliari, F., *Skenderi, G.*, Cristani, M., Del Bue, A., & Wang, Y. (2023). Leveraging commonsense for object localisation in partial scenes. IEEE Transactions on Pattern Analysis and Machine Intelligence.
