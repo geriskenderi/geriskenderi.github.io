@@ -2,34 +2,35 @@
 title = "Publications"
 +++
 
-### Preprints and Submissions
-- *Skenderi, G.* (2025). On the Hardness of Learning GNN-based SAT Solvers: The Role of Graph Ricci Curvature (Arxiv:2508.21513)
+> \* indicates equal contribution.
 
-### Journal papers
-- *Skenderi, G.*, Li, H., Tang, J., & Cristani, M. (2025). Graph-level Representation Learning with Joint-Embedding Predictive Architectures. Transactions on Machine Learning Research (TMLR)
+### 2026
+*Skenderi, G.* (2026). A Geometric Perspective on the Difficulties of Learning GNN-based SAT Solvers. ICLR 2026 Workshop on Geometry-grounded Representation Learning and Generative Modeling (PMLR).
 
--  *Skenderi, G.*, Joppi, C., Denitto, M., & Cristani, M. (2024). Well googled is half done: Multimodal forecasting of new fashion product sales with image-based google trends. Journal of Forecasting, 1–16.
+*Skenderi, G.*, Buffoni, L., D'Amico, F., Machado, D., Marino, R., Negri, M., Ricci-Tersenghi, F., Lucibello, C., & Angelini, M. C. (2026). Benchmarking Graph Neural Networks in Solving Hard Constraint Satisfaction Problems. (Preprint arXiv:2602.18419).
 
-- Giuliari, F., *Skenderi, G.*, Cristani, M., Del Bue, A., & Wang, Y. (2023). Leveraging commonsense for object localisation in partial scenes. IEEE Transactions on Pattern Analysis and Machine Intelligence.
+Naddeo, D., Linkerhägner, J., Toschi, N., *Skenderi, G.*, & Lachi, V. (2026). Hyperbolic Graph Neural Networks Under the Microscope: The Role of Geometry-Task Alignment. (Preprint arXiv:2602.01828).
 
-### Conference papers
-- *Skenderi, G.*, Capogrosso L.,  Toaiari A., Denitto M., Fummi. F, \& Melzi S. (2025) Disentangled Latent Spaces Facilitate Data-Driven Auxiliary Learning. 23rd International Conference on Image Analysis and Processing.
+### 2025
+*Skenderi, G.*, Li, H., Tang, J., & Cristani, M. (2025). Graph-level Representation Learning with Joint-Embedding Predictive Architectures. Transactions on Machine Learning Research (TMLR).
 
-- Turetta, C., *Skenderi, G.*, Capogrosso, L., Demrozi, F., Kindt, P. H., Masrur, A., ... & Pravadelli, G. (2023, April). Towards Deep Learning-based Occupancy Detection Via WiFi Sensing in Unconstrained Environments. In 2023 Design, Automation & Test in Europe Conference & Exhibition (DATE) (pp. 1-6). IEEE.
+*Skenderi, G.*, Capogrosso, L., Toaiari, A., Denitto, M., Fummi, F., & Melzi, S. (2025). Disentangled Latent Spaces Facilitate Data-Driven Auxiliary Learning. 23rd International Conference on Image Analysis and Processing.
 
-- *Skenderi, G.*, Joppi, C., Denitto, M., \& Cristani, M. (2022). On the use of learning-based forecasting methods for ameliorating fashion business processes: A position paper. 2nd International Workshop on Industrial Machine Learning @ ICPR22.
+### 2024
+Li, H., Jin, W., *Skenderi, G.*, Shomer, H., Tang, W., Fan, W., & Tang, J. (2024). Sub-graph Based Diffusion Model for Link Prediction. Proceedings of the Third Learning on Graphs Conference (PMLR).
 
-- Capogrosso, L., *Skenderi, G.*, Girella, F., Fummi, F., \& Cristani, M. (2022). Toward smart doors: A position paper. 2nd International Workshop on Industrial Machine Learning @ ICPR22.
+*Skenderi, G.*, Joppi, C., Denitto, M., & Cristani, M. (2024). Well Googled is Half Done: Multimodal Forecasting of New Fashion Product Sales with Image-based Google Trends. Journal of Forecasting.
 
-- Sampieri, A., di Melendugno, G.M.D.A., Avogaro, A., Cunico, F., Setti, F., *Skenderi, G.*, Cristani, M. and Galasso, F., (2022, October). Pose forecasting in industrial human-robot collaboration. In European Conference on Computer Vision (pp. 51-69). Cham: Springer Nature Switzerland.
+### 2023
+Giuliari, F., *Skenderi, G.*, Cristani, M., Del Bue, A., & Wang, Y. (2023). Leveraging commonsense for object localisation in partial scenes. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
 
-- Joppi, C.\*, *Skenderi, G.*\*, & Cristani, M. (2022, October). POP: Mining POtential Performance of new fashion products via webly cross-modal query expansion. In European Conference on Computer Vision (pp. 34-50). Cham: Springer Nature Switzerland.
+Turetta, C., *Skenderi, G.*, Capogrosso, L., Demrozi, F., Kindt, P. H., Masrur, A., … & Pravadelli, G. (2023). Towards Deep Learning-based Occupancy Detection Via WiFi Sensing in Unconstrained Environments. In 2023 Design, Automation & Test in Europe Conference & Exhibition (DATE) (pp. 1–6). IEEE.
 
-- *Skenderi, G.*, Joppi, C., Denitto, M., Scarpa, B., & Cristani, M. (2022). The multi-modal universe of fast-fashion: the Visuelle 2.0 benchmark. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 2241-2246).
+### 2022
+Giuliari, F., *Skenderi, G.*, Cristani, M., Wang, Y., & Del Bue, A. (2022). Spatial commonsense graph for object localisation in partial scenes. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 19518–19527).
 
-- Giuliari, F., *Skenderi, G.*, Cristani, M., Wang, Y., & Del Bue, A. (2022). Spatial commonsense graph for object localisation in partial scenes. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 19518-19527).
+Joppi, C.\*, *Skenderi, G.*\*, & Cristani, M. (2022). POP: Mining POtential Performance of new fashion products via webly cross-modal query expansion. In European Conference on Computer Vision (pp. 34–50). Cham: Springer Nature Switzerland.
 
-- Godi, M.\*, Joppi, C.\*, *Skenderi, G.*\*, & Cristani, M. (2022). MovingFashion: a Benchmark for the Video-to-Shop Challenge. In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (pp. 1678-1686).
+Sampieri, A., di Melendugno, G. M. D. A., Avogaro, A., Cunico, F., Setti, F., *Skenderi, G.*, Cristani, M., & Galasso, F. (2022). Pose forecasting in industrial human-robot collaboration. In European Conference on Computer Vision (pp. 51–69). Cham: Springer Nature Switzerland.
 
-- *Skenderi, G.*, Bozzini, A., Capogrosso, L., Agrillo, E. C., Perbellini, G., Fummi, F., & Cristani, M. (2021, September). Dohmo: Embedded computer vision in co-housing scenarios. In 2021 Forum on specification & Design Languages (FDL) (pp. 01-08). IEEE.
-
+Godi, M.\*, Joppi, C.\*, *Skenderi, G.*\*, & Cristani, M. (2022). MovingFashion: a Benchmark for the Video-to-Shop Challenge. In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (pp. 1678–1686).

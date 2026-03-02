@@ -5,10 +5,6 @@ cover = "hello.jpg"
 
 # Hi there!
 
-![A picture of me](img/me.jpg)
+![A picture of me](img/me.jpeg)
 
-My name is Geri Skenderi, and I am a Postdoctoral Researcher at the Bocconi Institute for Data Science and Analytics, advised by [Prof. Carlo Lucibello](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=1IPn2HgAAAAJ) . My current research lies in the intersection of AI (Neural Networks), Physics (Statistical Mechanics), and Geometry, aiming to understand and bypass the limitations of modern Neural Networks. I maintain an active interest in the field of (Deep) Representation Learning, particularly Graph Representation Learning. For more detailed professional information, feel free to read my [CV](https://drive.google.com/file/d/1VlbtA6qjfQbswSYWG-C0oSGITc3O_3UT/preview).
-
-I did my PhD in Computer Science at the University of Verona under the supervision of [Prof. Marco Cristani](https://scholar.google.com/citations?user=LbgTPRwAAAAJ&hl=en&oi=ao), and I also had the privilege of being a J1 visiting scholar at the DSE Lab of Michigan State University, headed by [Prof. Jiliang Tang](https://scholar.google.com/citations?user=WtzKMWAAAAAJ&hl=en&oi=ao).
-
-On a personal note, I love listening to and making music, watching anime, and playing videogames. If you are interested in my research or wish to talk about something, you can find all of my contact information below.
+I am a Postdoctoral Researcher at the Bocconi Institute for Data Science and Analytics, affiliated with the Machine Learning & Statistical Physics and Computational Biology groups. My work sits at the intersection of AI and geometry: I study how modern Neural Networks, in particular Graph Neural Networks, learn under geometric and structural constraints. Additionally, I am researching the use of geometrically principled methods for learning and understanding RNA sequencing data. I earned my PhD in Computer Science from the University of Verona under [Prof. Marco Cristani](https://scholar.google.com/citations?user=LbgTPRwAAAAJ&hl=en&oi=ao), and I was a J1 visiting scholar in the DSE Lab at Michigan State University with [Prof. Jiliang Tang](https://scholar.google.com/citations?user=WtzKMWAAAAAJ&hl=en&oi=ao). Outside the lab, I make and listen to music, train, and watch (a lot of) anime. If you are interested in my research or wish to talk about something, you can find all of my contact information below.
