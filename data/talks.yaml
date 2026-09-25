@@ -1,0 +1,26 @@
+entries:
+  - year: 2025
+    event: Graph Signal Processing Workshop (GSP) 
+    title: ' Graph-level Representation Learning with Joint-Embedding Predictive Architectures'
+    platform: YouTube
+    url: 'https://www.youtube.com/watch?v=UPZw10dhJxU'
+  - year: 2023
+    event: University of Verona
+    title: 'From Variational Autoencoders to Denoising Diffusion Probabilistic Models'
+    platform: YouTube
+    url: 'https://www.youtube.com/watch?v=f-I9CnAEOiA'
+  - year: 2022
+    event: WACV
+    title: 'MovingFashion: a Benchmark for the Video-to-Shop Challenge'
+    platform: YouTube
+    url: 'https://www.youtube.com/watch?v=YT3zGcIPciM'
+  - year: 2021
+    event: SFSCON
+    title: 'The Transformer Revolution: Attention-based Machine Learning'
+    platform: Vimeo
+    url: 'https://vimeo.com/649897677'
+  - year: 2020
+    event: SFSCON
+    title: 'Statistical Forecasting with Exogenous Factors'
+    platform: Vimeo
+    url: 'https://vimeo.com/482279938'

@@ -1,0 +1,21 @@
+{{ define "main" }}
+<section class="home-intro" aria-labelledby="name">
+  <div class="introduction">
+    <h1 id="name" class="visually-hidden">{{ site.Title }}</h1>
+    {{ with .Params.current_role }}<p class="current-role">{{ . | markdownify }}</p>{{ end }}
+    <p class="intro-text">{{ .Params.intro }}</p>
+    <a class="text-link" href="https://hash.dev/lab">Learn more about our research ideas <span aria-hidden="true">↗</span></a>
+
+  </div>
+  <figure class="portrait">
+    <img src="{{ .Params.portrait | relURL }}" alt="{{ .Params.portrait_alt }}" width="924" height="693" fetchpriority="high">
+    <figcaption>{{ partial "profiles.html" (dict "label" "Find me online" "class" "portrait-profiles" "featured" true) }}</figcaption>
+  </figure>
+</section>
+<div class="home-body">
+  <div class="margin-note" aria-hidden="true">{{ partial "geometry.html" . }}</div>
+  <div class="prose">{{ .Content }}
+    <!-- <p class="cv-link"><a href="{{ "cv/" | relURL }}">View my curriculum vitae <span aria-hidden="true">↗</span></a></p> -->
+  </div>
+</div>
+{{ end }}

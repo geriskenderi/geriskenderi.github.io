@@ -1,0 +1,5 @@
+<header class="page-heading">
+  <div class="heading-geometry" aria-hidden="true">{{ partial "geometry.html" . }}</div>
+  <h1>{{ .Title }}</h1>
+  {{ with .Content }}<div class="page-intro">{{ . }}</div>{{ end }}
+</header>

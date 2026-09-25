@@ -1,0 +1,7 @@
+<nav class="profile-links {{ .class }}" aria-label="{{ .label }}">
+  {{ range site.Data.profiles.links }}
+  {{ if or (not $.featured) .featured }}
+  <a href="{{ .url }}">{{ .name }} <span aria-hidden="true">↗</span></a>
+  {{ end }}
+  {{ end }}
+</nav>

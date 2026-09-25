@@ -1,0 +1,35 @@
+baseURL = 'https://geriskenderi.github.io/'
+languageCode = 'en'
+title = 'Geri Skenderi'
+disableKinds = ['taxonomy', 'term', 'RSS']
+enableRobotsTXT = true
+
+[params]
+  description = 'Geri Skenderi'
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[outputs]
+  home = ['HTML']
+
+[[menus.main]]
+  name = 'Home'
+  pageRef = '/'
+  weight = 10
+[[menus.main]]
+  name = 'Publications'
+  pageRef = '/publications'
+  weight = 20
+[[menus.main]]
+  name = 'Talks'
+  pageRef = '/talks'
+  weight = 30
+[[menus.main]]
+  name = 'Teaching'
+  pageRef = '/teaching'
+  weight = 40
+[[menus.main]]
+  name = 'CV'
+  pageRef = '/cv'
+  weight = 50

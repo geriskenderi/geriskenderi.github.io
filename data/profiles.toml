@@ -1,0 +1,17 @@
+[[links]]
+name = 'Google Scholar'
+featured = true
+url = 'https://scholar.google.com/citations?hl=en&user=F_FT7TUAAAAJ&view_op=list_works&sortby=pubdate'
+
+[[links]]
+name = 'GitHub'
+featured = true
+url = 'https://github.com/geriskenderi'
+
+[[links]]
+name = 'LinkedIn'
+url = 'https://www.linkedin.com/in/geriskenderi/'
+
+[[links]]
+name = 'Twitter / X'
+url = 'https://twitter.com/geriskenderi'

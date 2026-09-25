@@ -1,0 +1,14 @@
+{{ define "main" }}
+{{ partial "page-heading.html" . }}
+<ol class="talk-list">
+  {{ range site.Data.talks.entries }}
+  <li class="talk">
+    <div class="entry-meta"><span>{{ .year }}</span><span>{{ .event }}</span></div>
+    <div class="entry-detail">
+      <h2><a href="{{ .url }}">{{ .title }}</a></h2>
+      <a class="text-link" href="{{ .url }}">Watch recording <span class="platform">· {{ .platform }}</span> <span aria-hidden="true">↗</span></a>
+    </div>
+  </li>
+  {{ end }}
+</ol>
+{{ end }}

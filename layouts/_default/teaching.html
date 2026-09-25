@@ -1,0 +1,17 @@
+{{ define "main" }}
+{{ partial "page-heading.html" . }}
+<ol class="teaching-list">
+  {{ range site.Data.teaching.entries }}
+  <li class="teaching-entry">
+    <div class="entry-meta"><span>{{ .dates }}</span><span>{{ .level }}</span></div>
+    <div class="entry-detail">
+      <p class="course-code">{{ .code }}</p>
+      <h2>{{ .title }}</h2>
+      <p class="teaching-role">{{ .role }}</p>
+      <p class="institution">Course Instructor: {{ .lecturer }}</p>
+      <p class="institution">{{ .institution }}</p>
+    </div>
+  </li>
+  {{ end }}
+</ol>
+{{ end }}

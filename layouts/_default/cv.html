@@ -1,0 +1,15 @@
+{{ define "main" }}
+{{ partial "page-heading.html" . }}
+{{ if or .Params.embed_url .Params.document_url }}
+<div class="document-toolbar">
+  <p>{{ if .Params.embed_url }}Read below{{ if .Params.document_url }}, or open the document in its own window{{ end }}.{{ else }}Open the document to read my CV.{{ end }}</p>
+  {{ with .Params.document_url }}<a class="text-link" href="{{ . | relURL }}" target="_blank" rel="noopener">Open CV <span class="visually-hidden">in a new window</span><span aria-hidden="true">↗</span></a>{{ end }}
+</div>
+{{ with .Params.embed_url }}
+<iframe class="cv-document" src="{{ . | relURL }}" title="Curriculum vitae of Geri Skenderi" referrerpolicy="no-referrer" allowfullscreen></iframe>
+{{ with $.Params.document_url }}<p class="document-help">If the preview does not load, <a href="{{ . | relURL }}">open the CV directly</a>.</p>{{ end }}
+{{ end }}
+{{ else }}
+<div class="cv-placeholder"><span class="small-rule" aria-hidden="true"></span><p>My CV will be available here soon.</p></div>
+{{ end }}
+{{ end }}

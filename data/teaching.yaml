@@ -1,0 +1,64 @@
+entries:
+  - dates: 'AY 2025–2026'
+    level: "Master's course"
+    code: '20876'
+    title: 'Deep Learning and Reinforcement Learning'
+    role: 'Guest lecturer on “Graph Neural Networks with Applications”'
+    institution: 'Bocconi University, Department of Computing Sciences'
+    lecturer: 'Prof. Dr. Andrea Tangherloni'
+
+  - dates: 'AY 2025–2026'
+    level: "Master's course"
+    code: '21014'
+    title: 'Artificial Intelligence - Module 2'
+    role: 'Guest lecturer on “Graph Neural Networks with Applications”'
+    institution: 'Bocconi University, Department of Computing Sciences'
+    lecturer: 'Prof. Dr. Andrea Tangherloni'
+
+  - dates: 'AY 2025–2026'
+    level: "Master's course"
+    code: '20878'
+    title: 'Computer Vision and Image Processing'
+    role: 'Teaching assistant'
+    institution: 'Bocconi University, Department of Computing Sciences'
+    lecturer: 'Dr. Chiara Plizzari'
+
+  - dates: 'AY 2023–2024'
+    level: 'PhD course'
+    code: '41001'
+    title: 'Modern Applied Machine Learning'
+    role: 'Guest lecturer on “Principles of Equivariant and Invariant Learning on Graphs”'
+    institution: 'Bocconi University, Department of Computing Sciences'
+    lecturer: 'Prof. Dr. Carlo Lucibello'
+
+  - dates: 'AY 2021–2022'
+    level: "Master's course"
+    code: '4S009001'
+    title: 'Machine Learning & Artificial Intelligence'
+    role: 'Teaching assistant'
+    institution: 'University of Verona, Department of Computer Science'
+    lecturer: 'Prof. Dr. Vittorio Murino'
+
+  - dates: 'AY 2020–2021'
+    level: "Master's course"
+    code: '4S009001'
+    title: 'Machine Learning & Artificial Intelligence'
+    role: 'Teaching assistant'
+    institution: 'University of Verona, Department of Computer Science'
+    lecturer: 'Prof. Dr. Vittorio Murino'
+
+  - dates: 'AY 2020–2021'
+    level: "Master's course"
+    code: '4S008902'
+    title: 'Fundamentals of Machine Learning'
+    role: 'Teaching assistant'
+    institution: 'University of Verona, Department of Computer Science'
+    lecturer: 'Prof. Dr. Marco Cristani'
+
+  - dates: 'AY 2020–2021'
+    level: "Master's course"
+    code: '4S02792'
+    title: 'Deep Learning'
+    role: 'Teaching assistant'
+    institution: 'University of Verona, Department of Computer Science'
+    lecturer: 'Prof. Dr. Marco Cristani'

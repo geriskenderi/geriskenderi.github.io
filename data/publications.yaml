@@ -1,0 +1,91 @@
+groups:
+  - id: journals
+    title: "Journal papers"
+    papers:
+      - year: 2025
+        title: "Graph-level Representation Learning with Joint-Embedding Predictive Architectures"
+        authors: "**Skenderi, G.**, Li, H., Tang, J., & Cristani, M."
+        venue: "Transactions on Machine Learning Research (TMLR)."
+        url: "https://openreview.net/forum?id=u47f4DwYZb"
+
+      - year: 2024
+        title: "Well googled is half done: Multimodal forecasting of new fashion product sales with image-based google trends"
+        authors: "**Skenderi, G.**, Joppi, C., Denitto, M., & Cristani, M."
+        venue: "Journal of Forecasting, 43(6), 1982–1997."
+        url: "https://doi.org/10.1002/for.3104"
+
+      - year: 2023
+        title: "Leveraging commonsense for object localisation in partial scenes"
+        authors: "Giuliari, F., **Skenderi, G.**, Cristani, M., Del Bue, A., & Wang, Y."
+        venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence."
+
+  - id: conferences
+    title: "Conference papers"
+    papers:
+      - year: 2026
+        title: "Hyperbolic Graph Neural Networks Under the Microscope: The Role of Geometry-Task Alignment"
+        authors: "Naddeo, D., Linkerhägner, J., Toschi, N., **Skenderi, G.**^, & Lachi, V."
+        venue: "Neural Information Processing Systems (NeurIPS 2026)."
+        url: "https://arxiv.org/abs/2602.01828"
+
+      - year: 2026
+        title: "A Geometric Perspective on the Difficulties of Learning GNN-based SAT Solvers"
+        authors: "**Skenderi, G.**"
+        venue: "GRaM: Workshop on Geometry-grounded Representation Learning and Generative Modeling @ ICLR 2026, Proceedings of Machine Learning Research, 326, 497–518."
+        url: "https://proceedings.mlr.press/v326/skenderi26a.html"
+
+      - year: 2025
+        title: "Disentangled Latent Spaces Facilitate Data-Driven Auxiliary Learning"
+        authors: "**Skenderi, G.**, Capogrosso, L., Toaiari, A., Denitto, M., Fummi, F., Melzi, S., & Cristani, M."
+        venue: "23rd International Conference on Image Analysis and Processing (ICIAP 2025), pp. 128–142."
+        url: "https://doi.org/10.1007/978-3-032-10185-3_12"
+
+      - year: 2025
+        title: "Sub-Graph Based Diffusion Model for Link Prediction"
+        authors: "Li, H., Jin, W., **Skenderi, G.**, Shomer, H., Tang, W., Fan, W., & Tang, J."
+        venue: "Proceedings of the Third Learning on Graphs Conference, Proceedings of Machine Learning Research, 269, 36:1–36:17."
+        url: "https://proceedings.mlr.press/v269/li25a.html"
+
+      - year: 2023
+        title: "Towards Deep Learning-based Occupancy Detection Via WiFi Sensing in Unconstrained Environments"
+        authors: "Turetta, C., **Skenderi, G.**, Capogrosso, L., Demrozi, F., Kindt, P. H., Masrur, A., ... & Pravadelli, G."
+        venue: "2023 Design, Automation & Test in Europe Conference & Exhibition (DATE), April, pp. 1–6. IEEE."
+
+      - year: 2022
+        title: "Pose forecasting in industrial human-robot collaboration"
+        authors: "Sampieri, A., di Melendugno, G.M.D.A., Avogaro, A., Cunico, F., Setti, F., **Skenderi, G.**, Cristani, M. and Galasso, F."
+        venue: "European Conference on Computer Vision, October, pp. 51–69. Cham: Springer Nature Switzerland."
+
+      - year: 2022
+        title: "POP: Mining POtential Performance of new fashion products via webly cross-modal query expansion"
+        authors: "Joppi, C.*, **Skenderi, G.***, & Cristani, M."
+        venue: "European Conference on Computer Vision, October, pp. 34–50. Cham: Springer Nature Switzerland."
+
+      - year: 2022
+        title: "The multi-modal universe of fast-fashion: the Visuelle 2.0 benchmark"
+        authors: "**Skenderi, G.**, Joppi, C., Denitto, M., Scarpa, B., & Cristani, M."
+        venue: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 2241–2246."
+
+      - year: 2022
+        title: "Spatial commonsense graph for object localisation in partial scenes"
+        authors: "Giuliari, F., **Skenderi, G.**, Cristani, M., Wang, Y., & Del Bue, A."
+        venue: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 19518–19527."
+
+      - year: 2022
+        title: "MovingFashion: a Benchmark for the Video-to-Shop Challenge"
+        authors: "Godi, M.*, Joppi, C.*, **Skenderi, G.***, & Cristani, M."
+        venue: "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision, pp. 1678–1686."
+
+      - year: 2021
+        title: "Dohmo: Embedded computer vision in co-housing scenarios"
+        authors: "**Skenderi, G.**, Bozzini, A., Capogrosso, L., Agrillo, E. C., Perbellini, G., Fummi, F., & Cristani, M."
+        venue: "2021 Forum on Specification & Design Languages (FDL), September, pp. 01–08. IEEE."
+
+  - id: preprints
+    title: "Preprints & submissions"
+    papers:
+      - year: 2026
+        title: "Benchmarking Graph Neural Networks in Solving Hard Constraint Satisfaction Problems"
+        authors: "**Skenderi, G.**, Buffoni, L., D'Amico, F., Machado, D., Marino, R., Negri, M., Ricci-Tersenghi, F., Lucibello, C., & Angelini, M. C."
+        venue: "arXiv:2602.18419."
+        url: "https://arxiv.org/abs/2602.18419"

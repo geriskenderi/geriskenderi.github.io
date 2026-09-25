@@ -1,0 +1,35 @@
+{{ define "main" }}
+{{ partial "page-heading.html" . }}
+<div class="index-layout">
+  <aside class="index-sidebar">
+    <nav class="section-nav" aria-label="Publication categories">
+      {{ range site.Data.publications.groups }}<a href="#{{ .id }}">{{ .title }} <span>{{ len .papers }}</span></a>{{ end }}
+    </nav>
+    <p class="index-note">The complete list is also on <a href="{{ (index site.Data.profiles.links 0).url }}">Google Scholar <span aria-hidden="true">↗</span></a></p>
+    <p class="index-note">* Equal contribution.</p>
+    <p class="index-note">^ Main theory contributor.</p>
+
+  </aside>
+  <div class="publication-groups">
+    {{ range site.Data.publications.groups }}
+    <section class="publication-group" id="{{ .id }}" aria-labelledby="heading-{{ .id }}">
+      <h2 class="section-heading" id="heading-{{ .id }}">{{ .title }}<span class="count">{{ printf "%02d" (len .papers) }}</span></h2>
+      <ol class="publication-list">
+        {{ range .papers }}
+        <li class="publication">
+          <div class="publication-year">{{ .year }}</div>
+          <div class="publication-detail">
+            <h3>{{ .title }}</h3>
+            <p class="authors">{{ .authors | markdownify }}</p>
+            <p class="venue">{{ .venue }}</p>
+            {{ with .note }}<p class="publication-note">{{ . }}</p>{{ end }}
+            {{ with .url }}<a class="paper-link" href="{{ . }}">Read paper <span aria-hidden="true">↗</span></a>{{ end }}
+          </div>
+        </li>
+        {{ end }}
+      </ol>
+    </section>
+    {{ end }}
+  </div>
+</div>
+{{ end }}
